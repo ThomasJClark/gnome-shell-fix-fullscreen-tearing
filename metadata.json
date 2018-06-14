@@ -1,0 +1,7 @@
+{
+  "name": "Fix Fullscreen Tearing",
+  "description":
+    "Disable unredirection. Turning off this optimization can fix tearing for some fullscreen applications, like HTML5 video in Firefox.",
+  "uuid": "fix-fullscreen-tearing@tclark",
+  "shell-version": ["3.26.2"]
+}
